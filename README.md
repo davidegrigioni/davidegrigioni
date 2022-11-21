@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @davidegrigioni
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java, html, tailwindcss
 
 <!---
 davidegrigioni/davidegrigioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
