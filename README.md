@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @davidegrigioni
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java, html, tailwindcss
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/GljBmfUiN3lyU/giphy.gif" width="100"/>
+</div>
 
 <!---
 davidegrigioni/davidegrigioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
