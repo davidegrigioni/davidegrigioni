@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/GljBmfUiN3lyU/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/website?style=flat-square&up_color=blue&url=https%3A%2F%2Fdavyy.cc" alt="Website Badge"/>
   <img src="https://komarev.com/ghpvc/?username=davidegrigioni&style=flat-square&color=blue" alt=""/>
 </div>
