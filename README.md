@@ -20,7 +20,14 @@
 
 ---
 
-### 🐊: About Me :
+### 🐊 About Me :
+I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+Borned in Italy.
+- :telescope: I’m working as an Senior Admin on the AquariusMC Network.
+
+- :seedling: Interested in Learning new technologies.
+
+- :zap: Mainly a nerd.
 
 <!---
 davidegrigioni/davidegrigioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
