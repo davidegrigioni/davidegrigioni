@@ -15,7 +15,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/clips/3d-80s-derps-IUbIhbDiaWZsMhC4tC" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/fTz2gJRh37GpDaiiyD/giphy.gif" width="600" height="300"/>
 </div>
 
 <!---
